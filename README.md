@@ -18,5 +18,6 @@ This is a simple weather chatbot built using Streamlit and the OpenWeatherMap AP
    ```bash
    pip install streamlit requests
 
-output
+## output
 ![bot](https://github.com/user-attachments/assets/a8b9f7c7-cd38-45e9-abe7-5f8e4288c958)
+
